@@ -1,0 +1,13 @@
+C:\Users\jambonbeurre\Desktop\C# WS\SnowChecker\obj\Debug\netcoreapp3.1\SnowChecker.csprojAssemblyReference.cache
+C:\Users\jambonbeurre\Desktop\C# WS\SnowChecker\obj\Debug\netcoreapp3.1\SnowChecker.AssemblyInfoInputs.cache
+C:\Users\jambonbeurre\Desktop\C# WS\SnowChecker\obj\Debug\netcoreapp3.1\SnowChecker.AssemblyInfo.cs
+C:\Users\jambonbeurre\Desktop\C# WS\SnowChecker\obj\Debug\netcoreapp3.1\SnowChecker.csproj.CoreCompileInputs.cache
+C:\Users\jambonbeurre\Desktop\C# WS\SnowChecker\bin\Debug\netcoreapp3.1\SnowChecker.exe
+C:\Users\jambonbeurre\Desktop\C# WS\SnowChecker\bin\Debug\netcoreapp3.1\SnowChecker.deps.json
+C:\Users\jambonbeurre\Desktop\C# WS\SnowChecker\bin\Debug\netcoreapp3.1\SnowChecker.runtimeconfig.json
+C:\Users\jambonbeurre\Desktop\C# WS\SnowChecker\bin\Debug\netcoreapp3.1\SnowChecker.runtimeconfig.dev.json
+C:\Users\jambonbeurre\Desktop\C# WS\SnowChecker\bin\Debug\netcoreapp3.1\SnowChecker.dll
+C:\Users\jambonbeurre\Desktop\C# WS\SnowChecker\bin\Debug\netcoreapp3.1\SnowChecker.pdb
+C:\Users\jambonbeurre\Desktop\C# WS\SnowChecker\obj\Debug\netcoreapp3.1\SnowChecker.dll
+C:\Users\jambonbeurre\Desktop\C# WS\SnowChecker\obj\Debug\netcoreapp3.1\SnowChecker.pdb
+C:\Users\jambonbeurre\Desktop\C# WS\SnowChecker\obj\Debug\netcoreapp3.1\SnowChecker.genruntimeconfig.cache

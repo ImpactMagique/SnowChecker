@@ -1,0 +1,13 @@
+C:\Users\jambonbeurre\Desktop\C# WS\FirstApp\obj\Debug\netcoreapp3.1\FirstApp.csprojAssemblyReference.cache
+C:\Users\jambonbeurre\Desktop\C# WS\FirstApp\obj\Debug\netcoreapp3.1\FirstApp.AssemblyInfoInputs.cache
+C:\Users\jambonbeurre\Desktop\C# WS\FirstApp\obj\Debug\netcoreapp3.1\FirstApp.AssemblyInfo.cs
+C:\Users\jambonbeurre\Desktop\C# WS\FirstApp\obj\Debug\netcoreapp3.1\FirstApp.csproj.CoreCompileInputs.cache
+C:\Users\jambonbeurre\Desktop\C# WS\FirstApp\bin\Debug\netcoreapp3.1\FirstApp.exe
+C:\Users\jambonbeurre\Desktop\C# WS\FirstApp\bin\Debug\netcoreapp3.1\FirstApp.deps.json
+C:\Users\jambonbeurre\Desktop\C# WS\FirstApp\bin\Debug\netcoreapp3.1\FirstApp.runtimeconfig.json
+C:\Users\jambonbeurre\Desktop\C# WS\FirstApp\bin\Debug\netcoreapp3.1\FirstApp.runtimeconfig.dev.json
+C:\Users\jambonbeurre\Desktop\C# WS\FirstApp\bin\Debug\netcoreapp3.1\FirstApp.dll
+C:\Users\jambonbeurre\Desktop\C# WS\FirstApp\bin\Debug\netcoreapp3.1\FirstApp.pdb
+C:\Users\jambonbeurre\Desktop\C# WS\FirstApp\obj\Debug\netcoreapp3.1\FirstApp.dll
+C:\Users\jambonbeurre\Desktop\C# WS\FirstApp\obj\Debug\netcoreapp3.1\FirstApp.pdb
+C:\Users\jambonbeurre\Desktop\C# WS\FirstApp\obj\Debug\netcoreapp3.1\FirstApp.genruntimeconfig.cache
